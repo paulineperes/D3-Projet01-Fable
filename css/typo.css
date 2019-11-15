@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Arimo:400,700|Assistant:400,700|Cairo:400,700|Fira+Code:400,700|Josefin+Sans:400,700|Lobster|Prociono|Quicksand:400,700|Slabo+27px|Staatliches|Stoke|ZCOOL+XiaoWei&display=swap');
+
+header span {
+        font-family: 'ZCOOL XiaoWei', serif;
+        font-size: 2em;
+}
+#fable01 {
+  padding-bottom: 20vh;
+}
+#fable01 h2 {
+     font-family: 'Staatliches', cursive;
+     font-size: 3em;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+#fable01 p {
+         font-family: 'Stoke', serif;
+         text-align: center;
+         font-size: 15px;
+         padding: 60px;
+         padding-top: 40px;
+}
+
+
+
+
+#fable02 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#fable02 h2 {
+        text-align: center;
+        font-family: 'ZCOOL XiaoWei', serif;
+        font-size: 4em;
+}
+#fable02 p {
+              font-family: 'Quicksand', sans-serif;
+              column-count: 3;
+              font-weight: bold;
+              font-size: 20px;
+}
+
+
+
+
+#fable03 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#fable03 h2 {
+        font-family: 'Lobster', cursive;
+        margin-left: 200px;
+        font-size: 5em;
+
+}
+#fable03 p {
+            font-family: 'Cairo', sans-serif;
+            margin-right: 200px;
+            height: 300px;
+            max-width: 800px
+}
+#fable03 .text-content{
+}
+
+
+#fable04 {
+  display: flex;
+  justify-content: left;
+  align-items: top;
+}
+#fable04 h2 {
+        font-family: 'Abril Fatface', cursive;
+        color: white;
+        font-size: 50px;
+        padding-top: 100px;
+}
+#fable04 p {
+              font-family: 'Assistant', sans-serif;
+              color: white;
+}
+#fable04 .text-content {
+     max-width: 600px;
+     text-align: left;
+     margin-left: 10vw;
+}
+
+
+#fable05 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#fable05 h2 {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 3em;
+        color: white;
+}
+#fable05 p {
+             font-family: 'Prociono', serif;
+             font-size: 18px;
+             color: white;
+             text-align: justify;
+}
+
+#fable05 .text-content {
+   max-width: 600px;
+}
+
+#fable07 .foreground {
+  text-align: center;
+}
+#fable07 h2 {
+  padding-top: 200px;
+  font-family: 'Lobster', cursive;
+  font-size: 5em;
+}
