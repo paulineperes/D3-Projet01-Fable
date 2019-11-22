@@ -127,7 +127,7 @@ header #title span {
     padding top: 0px;
   background : #fff url('images/nature3.jpg') no-repeat top center;
   background: cover;
-  min-height: 80vh;
+     min-height: 90vh;
 
 }
 #fable02 p {
@@ -147,11 +147,14 @@ header #title span {
   min-height: 90vh;
   background-attachment: fixed;
 }
+#fable03 h2 {
+  height: 360+80px;
+  padding-right: 50px;
+}
 #fable03 p {
       background: rgba(255, 255, 255, 0.5);
       padding: 40px;
-
-
+      width: 500px
 }
 
 

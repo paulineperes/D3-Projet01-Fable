@@ -52,14 +52,13 @@ header span {
 }
 #fable03 h2 {
         font-family: 'Lobster', cursive;
-        margin-left: 200px;
-        font-size: 5em;
+        margin-left: 400px;
+        font-size: 4em;
 
 }
 #fable03 p {
             font-family: 'Cairo', sans-serif;
             margin-right: 200px;
-            height: 300px;
             max-width: 800px
 }
 #fable03 .text-content{
@@ -69,13 +68,13 @@ header span {
 #fable04 {
   display: flex;
   justify-content: left;
-  align-items: top;
+  align-items: center;
 }
 #fable04 h2 {
         font-family: 'Abril Fatface', cursive;
         color: white;
         font-size: 50px;
-        padding-top: 100px;
+
 }
 #fable04 p {
               font-family: 'Assistant', sans-serif;
